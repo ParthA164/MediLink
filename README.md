@@ -211,5 +211,4 @@ The production build will be served by Express from the `client/build` directory
 - `/api/appointment` - Appointment-related routes
 - `/api/notification` - Notification routes
 
-## License
-This project is licensed under the MIT License.
+
